@@ -1,3 +1,8 @@
+## Author
+
+**Kirpal Sachdev**
+[LinkedIn](https://linkedin.com/in/kirpalsachdev) · [GitHub](https://github.com/kirpalsachdev) · Singapore
+
 # Beacon — RAG Knowledge Assistant
 
 **Upload your documents. Ask questions. Get grounded, cited answers.**
@@ -164,10 +169,7 @@ This prototype is designed for local, single-user use. In production, you'd add:
 - **Interface:** Streamlit
 - **Language:** Python 3.12
 
-## Author
 
-**Kirpal Sachdev**
-[LinkedIn](https://linkedin.com/in/kirpalsachdev) · [GitHub](https://github.com/kirpalsachdev) · Singapore
 
 ---
 
